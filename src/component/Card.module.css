@@ -13,8 +13,15 @@ background: brown;
   }
 
   body{
-    background-color: aquamarine;
+    background-color: rgb(185, 226, 212);
   }
 .namestyl{
   color: blueviolet;
+}
+
+.cardSelected{
+  border: red solid 4px;
+  width: 18%;
+  font-size: large;
+  
 }
